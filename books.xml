@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+       <Book>
+              <Title>The Divine Comedy</Title>
+			  <Author>Dante Alighieri</Author>
+			  <Country>Italy</Country>
+			  <Language>Italian</Language>
+              <Price>100</Price>
+              <Quantity>1000</Quantity>
+       </Book>
+	   <Book>
+              <Title>Pride and Prejudice</Title>
+			  <Author>Jane Austen</Author>
+			  <Country>United Kingdom</Country>
+			  <Language>English</Language>
+              <Price>70</Price>
+              <Quantity>250</Quantity>
+       </Book>
+	   <Book>
+              <Title>Don Quixote</Title>
+			  <Author>Miguel de Cervantes</Author>
+			  <Country>Spain</Country>
+			  <Language>Spanish</Language>
+              <Price>300</Price>
+              <Quantity>95</Quantity>
+       </Book>
+       <Book>
+              <Title>Crime and Punishment</Title>
+			  <Author>Fyodor Dostoevsky</Author>
+			  <Country>Russia</Country>
+			  <Language>Russian</Language>
+              <Price>62</Price>
+              <Quantity>95</Quantity>
+       </Book>
+	   <Book>
+              <Title>The Castle</Title>
+			  <Author>Franz Kafka</Author>
+			  <Country>Austria</Country>
+			  <Language>German</Language>
+              <Price>112</Price>
+              <Quantity>450</Quantity>
+       </Book>
+	   <Book>
+              <Title>Love in the Time of Cholera</Title>
+			  <Author>Gabriel García Márquez</Author>
+			  <Country>Colombia</Country>
+			  <Language>Spanish</Language>
+              <Price>74</Price>
+              <Quantity>139</Quantity>
+       </Book>
+	   <Book>
+              <Title>Sentimental Education</Title>
+			  <Author>Gustave Flaubert</Author>
+			  <Country>France</Country>
+			  <Language>French</Language>
+              <Price>265</Price>
+              <Quantity>12</Quantity>
+       </Book>
+	   <Book>
+              <Title>Gypsy Ballads</Title>
+			  <Author>Federico García Lorca</Author>
+			  <Country>Spain</Country>
+			  <Language>Spanish</Language>
+              <Price>65</Price>
+              <Quantity>735</Quantity>
+       </Book>
+	   <Book>
+              <Title>Gypsy Ballads</Title>
+			  <Author>Federico García Lorca</Author>
+			  <Country>Spain</Country>
+			  <Language>Spanish</Language>
+              <Price>65</Price>
+              <Quantity>735</Quantity>
+       </Book>
+	   <Book>
+              <Title>Ulysses</Title>
+			  <Author>James Joyce</Author>
+			  <Country>Irish</Country>
+			  <Language>English</Language>
+              <Price>65</Price>
+              <Quantity>735</Quantity>
+       </Book>
+</Books>
